@@ -19,7 +19,17 @@ This project is a modern, interactive web application built with **React**, **Vi
 6. **Demo Mode (`src/components/DemoMode.tsx`)**: A unique feature that, when clicked, automatically scrolls through the site and simulates user clicks to demonstrate the flow.
 
 ---
+-------------------
+-------------------
+Screenshots
+<img width="1853" height="914" alt="image" src="https://github.com/user-attachments/assets/ad26d2a3-4da2-4bf2-b11c-24bcf1cb3a95" />
 
+
+
+Demo Video
+(" https://drive.google.com/file/d/1Uix0lvDG2Kdk3y0Fux_0ucAWmdxK-qSf/view?usp=sharing ")
+-------------------
+---
 Build By
 Bongu Rishi
 bongurishi07@gmail.com
